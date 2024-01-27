@@ -1,0 +1,4 @@
+Time taken to apply the filter using CPU: 410.77 milliseconds
+Time taken to apply the Box filter using GPU: 0.05 milliseconds
+Total time taken for grayscale conversion and Laplacian filter using CPU: 8.50 milliseconds
+Grayscale and Laplacian Filter Execution Time using GPU: 0.012416 ms
